@@ -10,15 +10,21 @@
       "email": "dk@gmail.com",
       "password": "1234",
       "id": 2
+    },
+    {
+      "": "ramu",
+      "email": "ram@gmail.com",
+      "password": "1234",
+      "id": 3
     }
   ],
   "products": [
     {
       "name": "i phone 14 pro",
       "price": "40000",
-      "Color": "white",
       "category": "mobile",
-      "discription": "iphone Product",
+      "Color": "white",
+      "discription": "iphone Products Best Quality iphone",
       "image": "https://m.media-amazon.com/images/I/619f09kK7tL._AC_UF1000,1000_QL80_.jpg",
       "id": 1
     },
