@@ -1,3 +1,14 @@
-npm install -g json-server
+These steps do not follow this project is not proper work 
 
-json-server  --watch db.json
+
+step 1: open command promt 
+
+step 2:  type ==> npm install -g json-server ==>enter
+
+step 3 : go to project file --> Ecommerce --> press single click of  db.json file--> go to filepath 
+
+step 4 :control + all --> type cmd --> open command promt
+
+step 5 : type -->json-server  --watch db.json    press enter 
+  
+step 6 : Ready to use for this project
